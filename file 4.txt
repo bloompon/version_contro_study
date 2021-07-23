@@ -4,4 +4,3 @@ insert line for bug fix
 UX bug fixing 
 Insert line by github console 
 Button bug fixing 
-Windows bug fixing 
