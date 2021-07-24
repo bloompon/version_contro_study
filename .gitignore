@@ -3,3 +3,7 @@
 # Logs
 /logs
 *.log
+
+# nuxt framework build generation static soft code
+.nuxt
+dist
