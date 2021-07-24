@@ -1,7 +1,0 @@
-#file 4
-line update by github console directly , test client side push feature 
-insert line for bug fix 
-UX bug fixing 
-Insert line by github console 
-Button bug fixing change by sam lam 
-Add the line by sam lam 
